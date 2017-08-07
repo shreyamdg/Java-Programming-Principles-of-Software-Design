@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=order
+comment0.target=EfficientMarkovModel(int)
+comment1.params=index
+comment1.target=java.lang.String\ getKey(int)
+comment1.text=\n\ Get\ key\ of\ order-length\ starging\ on\ index.\n\ \n\ @param\ index\n\ \n
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=index
+comment2.target=java.lang.String\ getFollowingLetter(int)
+comment3.params=s
+comment3.target=void\ setTraining(java.lang.String)
+comment4.params=
+comment4.target=void\ buildMap()
+comment4.text=\n\ Scan\ whole\ teaching\ text\ and\ build\ map\ for\ all\ possible\ keys.\n\ \n\ @param\ key\n
+comment5.params=key
+comment5.target=java.util.ArrayList\ getFollows(java.lang.String)
+comment6.params=numChars
+comment6.target=java.lang.String\ getRandomText(int)
+comment7.params=
+comment7.target=void\ printHashMapInfo()
+comment8.params=
+comment8.target=int\ mapSize()
+comment9.params=
+comment9.target=int\ longestFollowsSize()
+numComments=11
